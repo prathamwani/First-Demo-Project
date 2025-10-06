@@ -2,4 +2,4 @@
 This is my first git repo
 <br>
 <br>
-Author-Pratham Wani
+Author-Pratham Wani (Antriksh)
